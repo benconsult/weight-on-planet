@@ -1,6 +1,6 @@
 # weight-on-planet
 
-A mobile application for calculating the body weight on some specific planets
+A mobile application for calculating the human body weight on some specific planets
 
 #Programming language: Dart
 
